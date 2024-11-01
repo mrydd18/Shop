@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_acc">შექმენით ანგარიში</string>
+    <string name="email_input">იმეილი</string>
+    <string name="password_input">პაროლი</string>
+    <string name="continue_button">პაროლი</string>
+    <string name="empty_fields">ცარიელი ველი არ დაიშვება!</string>
+    <string name="logged_in_successfully">ავტორიზაცია წარმატებით შესრულდა!</string>
+    <string name="password_length">პაროლი უნდა შეიცავდეს მინიმუმ 8 სიმბოლოს!</string>
+    <string name="order_button">შეუკვეთე ახლა</string>
+</resources>

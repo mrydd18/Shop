@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">WIKORA</string>
+    <string name="create_acc">Create an Account</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="continue_button">Continue</string>
+    <string name="product_image" translatable="false">Air Pods Max</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="empty_fields">Empty fields are not allowed</string>
+    <string name="password_length">Password must be at least 8 characters</string>
+    <string name="logged_in_successfully">Logged in successfully</string>
+    <string name="order_button">Order Now</string>
+</resources>
